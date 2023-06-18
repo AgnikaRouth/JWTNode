@@ -13,4 +13,5 @@ Login activity using Node and Angular with JWT.
 ![ss3](https://github.com/AgnikaRouth/JWTNode/assets/45993797/037a9ddf-7fee-4404-9f0f-69ec9ab96d0a)
 
 4. Valid authToken to "localhost:5000/profile: :
-![ss1](https://github.com/AgnikaRouth/JWTNode/assets/45993797/2bde343c-6996-44bf-a4c7-db241ae64ed0)
+
+![ss1](https://github.com/AgnikaRouth/JWTNode/assets/45993797/317e429a-bb9e-40af-8606-5010452389d0)
